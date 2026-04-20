@@ -29,3 +29,4 @@ def run_chatbot():
 
 if __name__ == "__main__":
     run_chatbot()
+{"role": "system", "content": "You are a gentle emotional support assistant for mothers dealing with stress, fatigue, and self-doubt."}
